@@ -3,7 +3,7 @@ name = "janky"
 version = "0.1"
 description = "null"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 authors = [{name = "Katie McLaughlin"}]
 license = {text = "Apache-2.0"}
 classifiers = [
